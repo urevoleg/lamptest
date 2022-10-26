@@ -1,0 +1,11 @@
+pandas
+scipy
+pymysql
+bs4
+requests
+data-view
+matplotlib
+seaborn
+sklearn
+selenium
+tqdm
